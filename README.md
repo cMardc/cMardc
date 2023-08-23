@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mard Jafarzadeh</h1>
 <h3 align="center">A passionate C/C++ developer from Azerbaijan</h3>
-<img align='right' width='100px' alt='coding' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
+<img align='right' alt='coding' src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmardc&label=Profile%20views&color=0e75b6&style=flat" alt="cmardc" /> </p>
 
