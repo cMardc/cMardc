@@ -1,0 +1,14 @@
+Did you ever heard about 'C-Like'? Yes, the 'C' programming language like.<br>
+'C-Like' is a programming language type that has a lot of programming languages inside.<br>
+They're called 'C-Like', because they are built on top of C and their syntax is almost same as C.<br>
+And probably your language is also in this list. Want to see some?<br>
+<br>
+<ul>
+<li>C++: Adds object-oriented features to C for versatile programming.</li>
+<li>C#: Microsoft's language for Windows apps, combining C++ and Java features.</li>
+<li>Java: Platform-independent language influenced by C for diverse applications.</li>
+<li>Objective-C: Apple's pre-Swift choice for macOS and iOS development.</li>
+<li>Swift: Apple's modern alternative to Objective-C for efficient app development.</li>
+<li>Rust: Focuses on memory safety and performance for system programming.</li>
+</ul><br>
+And there's still more, you can view them <a href="https://en.wikipedia.org/wiki/List_of_C-family_programming_languages">here</a><br>
