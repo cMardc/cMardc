@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **WIN32 Framework For C/C++**
 
-- 👨‍💻 My best projects are available at [cmardc.github.io/cMardc/](cmardc.github.io/cMardc/)
+- 👨‍💻 My best projects are available at [this webpage](https://cmardc.github.io/cMardc/)
 
 - 💬 Ask me about **C++ and Arduino**
 
