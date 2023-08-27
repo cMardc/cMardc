@@ -111,5 +111,5 @@ function show_fun_fact() {
 
 function search(id_of_text) {
     const text_box = document.getElementById(id_of_text);
-    window.location.href = "/html/search.html?search=" + text_box.value;
+    window.location.href = "https://cmardc.github.io/cMardc/html/search.html?search=" + text_box.value;
 }
