@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmardc&label=Profile%20views&color=0e75b6&style=flat" alt="cmardc" /> </p>
 
-- 🌱 I’m currently learning **WIN32 Framework For C/C++**
+- 🌱 I’m currently learning **C/C++**
 
 - 👨‍💻 My best projects are available at [this webpage](https://cmardc.github.io/cMardc/)
 
