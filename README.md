@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmardc&show_icons=true&locale=en" alt="cmardc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmardc&" alt="cmardc" /></p>
+
+<p><img align="center" src="https://www.codewars.com/users/cMardc/badges/large" alt="cmardc" /></p>
+
