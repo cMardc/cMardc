@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **C/C++**
 
-- 👨‍💻 My best projects are available at [this webpage](https://cmardc.github.io/cMardc/)
-
 - 💬 Ask me about **C++ and Arduino**
 
 - 📫 How to reach me **merd.yedek@gmail.com**
